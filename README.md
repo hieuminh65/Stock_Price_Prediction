@@ -1,8 +1,9 @@
 # Stock Price Prediction Project
 
 ## Description
-This project is a stock price prediction model that uses linear regression to predict the closing price of a given stock. The model is trained on the history of the data and evaluated on the a portion to determine its accuracy.
-
+* This project is a stock price prediction model that uses linear regression to predict the closing price of a given stock. 
+* The model is trained on the history of the data and evaluated on the a portion to determine its accuracy.
+* The model acquires an accuracy of 90-99%
 ## Usage
 ### Get API key
 Get an API key from https://www.alphavantage.co/support/#api-key.
